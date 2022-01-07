@@ -10,8 +10,10 @@ There has been a new rule in many collages in india i.e, for the students to mai
 This project proposes a Attendance tracker app (a.k.a Bunk Manager) to keep track of their attendance, Ability to check what classes they can bunk and how many classes do they need to attend to get back to 75% of attendance. This also gives a total summary of No. of classes can be bunked in all classes included and similar for the the must attend clases to get back at 75%.ile device and mapping it to the database. Google API’s are used for accuracy in finding the location of the busses. Currently the app works for GNITS institute only. The project's scope is to extend it for other institutions to transport services in future in collaboration.
 
 ## // todo add ss
-<img width="559" alt="sampleimages" src="https://user-images.githubusercontent.com/18289261/142846646-a6858641-ad88-43aa-b8bb-b690fd7126f1.png">
-    	  	
+<img width="200" alt="sampleimages" src="https://user-images.githubusercontent.com/54740946/148618556-e44ec3da-05de-4a7f-9264-24c7e1384560.png">    <img width="200" alt="sampleimages" src="https://user-images.githubusercontent.com/54740946/148618638-6288b08b-cce8-4ad8-9b04-aa26655d22d5.png">      <img width="200" alt="sampleimages" src="https://user-images.githubusercontent.com/54740946/148618662-c23c753c-aeca-4a35-9fba-a9bb19c76284.png">      <img width="200" alt="sampleimages" src="https://user-images.githubusercontent.com/54740946/148618700-2a7e0894-494e-42d5-b783-c954bdc889fb.png">
+
+
+
 <b> Functionality & Concepts used : </b>
 - Databindng: All the activities and Fragments are built on Databinding including the RecyclerView Adapters.
 - Coroutines and LiveData: Roomdatabase functions, live updates in the app are managed using Coroutines and LiveData for a better user experience.
@@ -27,4 +29,4 @@ Edge cases to be tested:
 - Adding and removing subjects from the time table.
 - How the dark mode is handled.
 
-You can try out the app here, if you find any crash/bugs do file a issue here.
+You can try out the app here, if you find any crash/bugs do file a issue [here](https://github.com/jamiaGDSC/Attendance-Manager/issues).
