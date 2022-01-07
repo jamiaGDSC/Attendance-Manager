@@ -29,4 +29,4 @@ Edge cases to be tested:
 - Adding and removing subjects from the time table.
 - How the dark mode is handled.
 
-You can try out the app here, if you find any crash/bugs do file a issue [here](https://github.com/jamiaGDSC/Attendance-Manager/issues).
+You can try out the app [here](https://github.com/jamiaGDSC/Attendance-Manager/blob/dev/app-debug.apk), if you find any crash/bugs do file a issue [here](https://github.com/jamiaGDSC/Attendance-Manager/issues).
